@@ -1,0 +1,51 @@
+p{
+    margin: 50px;
+    text-align: center;
+    background-color: red;
+    color: white;
+    padding: 50px;
+}
+
+td{
+    padding: 20px;
+}
+
+img {
+    width: 50px;
+}
+
+.titulo {
+    margin-bottom: 50px;
+}
+
+.label1 {
+    display: block;
+    padding-bottom: 10px;
+}
+
+.input1 {
+    padding-right: 100px;
+    border: black solid;
+}
+
+.boton {
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 240px;
+    border: black solid;
+}
+
+.div_table {
+    display: block;
+}
+
+.color1 {
+    background-color: peru;
+}
+
+.color2 {
+    background-color: rgba(255, 255, 0, 0.377);
+}
